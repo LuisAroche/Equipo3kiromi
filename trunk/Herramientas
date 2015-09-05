@@ -1,0 +1,42 @@
+Lenguaje java: este lenguaje lo utilizaremos para la creación y estructura del código para la ejecución de una aplicación de escritorio
+Eclipse luna: este id lo utilizaremos para el desarrollo del código de una aplicación de escritorio
+Jdk: contiene el entorno de desarrollo de Java de Sun. Sirve para desarrollar programas Java y proporciona el entorno de ejecución necesario para ejecutar dichos programas. También incluye un módulo (plugin) para que los navegadores puedan ejecutar programas Java.
+Jre: actúa como un "intermediario" entre el sistema operativo y Java, con  JVM ejecuta el código Java previamente compilado.
+javaFX: se usara para crear las interfaces de la aplicación de escritorio
+Postgresql: en este gestor se creara la base de datos para la aplicación de escritorio
+
+
+
+MAQUINA CON LA QUE SE TRABAJARA
+LENOVO g40-70
+
+Procesador	
+•	Intel ® Coe ™ i3-4005u CP @ 1.70Hz
+Arquitectura de bus	•	1600 MHz DDR3 SDRAM (PC3-12800S)
+•	Bus PCI Express
+•	DMI
+Chip de memoria gráfica	•	Integrado / AMD Jel LE / AMD Jel Pro / nvidia N15S-GT / 
+nvidia N15V-GM
+Display	•	14.0 "16: 9, 1366 x 768 píxeles HD / 1.920 × 1.080 píxeles FHD
+Memoria de serie	•	DDR3L, SODIMM × 1 / SODIMM × 2 (máximo 8 GB / 16 GB)
+CMOS RAM	•	256 Bytes
+Disco duro	•	2,5 pulgadas, 7 mm / 9,5 mm SATA
+•	320 GB / GB / 1TB 500 5400 rpm
+La unidad óptica	•	Interna 9.0 mm (Rambo)
+Puerto I / O	•	Conector de audio combinado × 1
+•	RJ45 × 1
+•	Puerto HDMI × 1
+•	Puerto USB 2.0 × 2, puerto USB 3.0 × 1
+•	2 en 1 ranura × 1 (SD / MMC)
+Audio	•	1/8 "jack de audio Combo
+•	1.5 altavoces W x 2
+•	Micrófono Soltero / matriz de micrófono
+Ethernet (en la placa base)	•	10/100/1000 Mbps
+Inalámbrica Bluetooth	•	Combinado en la tarjeta combo
+Teclado	•	6 filas Lenovo Keyboard
+Touch pad	•	Tipo Multi-touch
+Cámara integrada	•	HD (720p) /0.3 M
+Batería	•	4 celdas, 2200 mAh / 2800 mAh
+Adaptador de CA	•	20 V, 65 W o 45 W
+Sistema operativo preinstalado	•	Windows 8.1
+
